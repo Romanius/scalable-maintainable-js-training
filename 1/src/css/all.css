@@ -1,0 +1,9 @@
+html {
+	font-family: 'Arial'
+}
+
+#questions span:hover {
+	cursor: hand;
+	color: blue;
+	padding: 5px;
+}
